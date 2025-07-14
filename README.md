@@ -9,7 +9,7 @@ I'm currently focused on building smart and simple tech solutions. I love explor
 ## 👨‍💻 About Me
 
 - 🔭 Currently working on: **Smart Healthcare Recommendation System**
-- 💡 Learning: **Machine Learning**, **MIT App Inventor**, **Web Technologies**
+- 💡 Learning: **Machine Learning**, **Web Technologies**
 - 🧠 Exploring: Python, Data Science, Deep Learning
 - 🛠️ Tools: App Inventor, Python, HTML, CSS, JavaScript, Git
 - 👯 Looking to collaborate on: AI-based and Open Source Projects

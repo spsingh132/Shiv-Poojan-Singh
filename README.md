@@ -18,24 +18,6 @@ Welcome to my GitHub profile! I am a passionate B.Tech student exploring the wor
 
 ---
 
-## 🧰 My Tech Stack
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MIT App Inventor](https://img.shields.io/badge/MIT_App_Inventor-5C2D91?style=for-the-badge&logo=app-inventor&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📈 GitHub Stats
-
-![Shiv's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivpoojansingh&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivpoojansingh&layout=compact&theme=tokyonight)
-
----
-
 ## 📂 Featured Projects
 
 ### 🌸 Flower Prediction using TensorFlow
@@ -52,7 +34,7 @@ A rule-based + ML-driven healthcare assistant providing health recommendations.
 ---
 
 ## 🧰 Tech Stack
-- Languages: Python, HTML
+- Languages: Python, C++, HTML
 
 - ML/DL: TensorFlow, Keras, Scikit-learn, NumPy, Pandas
 
@@ -72,7 +54,7 @@ A rule-based + ML-driven healthcare assistant providing health recommendations.
 
 ## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shiv-poojan-singh-43b890241/)
+[![LinkedIn]](https://www.linkedin.com/in/shiv-poojan-singh-43b890241/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email]@gmail.com)
 
 ---

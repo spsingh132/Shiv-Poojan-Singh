@@ -1,20 +1,20 @@
 # 👋 Hi, I'm Shiv Poojan Singh
 
-### 🚀 A passionate learner, developer, and coder from India
+### 🚀 Machine Learning Enthusiast | Developer | Tech Explorer
 
-I'm currently focused on building smart and simple tech solutions. I love exploring new technologies and applying them to real-world problems, especially in the areas of machine learning, mobile app development, and automation.
+Welcome to my GitHub profile! I am a passionate B.Tech student exploring the world of Machine Learning, Deep Learning, and Intelligent Systems. I enjoy building end-to-end ML pipelines, experimenting with data, and creating impactful solutions.
 
 ---
 
-## 👨‍💻 About Me
+## 🔥 What I Do
 
-- 🔭 Currently working on: **Smart Healthcare Recommendation System**
-- 💡 Learning: **Machine Learning**, **Web Technologies**
-- 🧠 Exploring: Python, Data Science, Deep Learning
-- 🛠️ Tools: App Inventor, Python, HTML, CSS, JavaScript, Git
-- 👯 Looking to collaborate on: AI-based and Open Source Projects
-- 🗣️ Languages: English, Hindi
-- 🎯 Goal: Become a skilled AI Engineer & Educator
+- Develop ML models using TensorFlow, Scikit-learn, Keras
+
+- Work with real-world datasets and apply preprocessing techniques
+
+- Build intelligent systems with practical use cases
+
+- Explore AI applications in agriculture, healthcare, forestry, and more
 
 ---
 
@@ -36,11 +36,9 @@ I'm currently focused on building smart and simple tech solutions. I love explor
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-- 🔹 [Smart Healthcare Recommendation System](#) – A system that gives health advice based on symptoms (in development)
-- 🔹 [Simple Calculator (MIT App Inventor)](#) – Designed a basic calculator app for Android using block-based coding
-- 🔹 [Weather Info Web App](#) – Displays real-time weather data using APIs and Bootstrap (HTML, JS)
+# 🌸 Flower Prediction using TensorFlow
 
 ---
 

@@ -54,9 +54,8 @@ A rule-based + ML-driven healthcare assistant providing health recommendations.
 
 ## 📫 Connect With Me
 
-[![LinkedIn]](https://www.linkedin.com/in/shiv-poojan-singh-43b890241/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/shiv-poojan-singh-43b890241/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[your-email]@gmail.com)
 
 ---
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House

@@ -38,9 +38,37 @@ Welcome to my GitHub profile! I am a passionate B.Tech student exploring the wor
 
 ## 📂 Featured Projects
 
-# 🌸 Flower Prediction using TensorFlow
+### 🌸 Flower Prediction using TensorFlow
+A TensorFlow-based image classification model to identify flower species.
+### 🙂 Face Emotion Detection
+Deep learning model to detect human emotions from facial expressions.
+### 🌲 Forest Cover Type Prediction
+Machine learning project to classify forest cover types using structured data.
+### 🌾 Crop Yield Prediction
+Predictive model to estimate agricultural crop yield using statistical and ML techniques.
+### 🩺 Smart Healthcare Recommendation System
+A rule-based + ML-driven healthcare assistant providing health recommendations.
 
 ---
+
+## 🧰 Tech Stack
+- Languages: Python, HTML
+
+- ML/DL: TensorFlow, Keras, Scikit-learn, NumPy, Pandas
+
+- Tools: Colab, Jupyter Notebook, GitHub
+
+- Other: Data preprocessing, EDA, Model tuning
+
+---
+
+## 🌱 Currently Learning
+
+- Advanced Deep Learning
+
+- CNN architectures
+
+- Model optimization and deployment
 
 ## 📫 Connect With Me
 
